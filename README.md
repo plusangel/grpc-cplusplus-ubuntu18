@@ -9,6 +9,9 @@ A high performance, open source, general RPC framework that puts mobile and
 HTTP/2 first, available in many programming languages.  For full details, see
 the official gRPC documentation.
 
+# The difference with the existing one?
+It is build on top of ubuntu 18.04 and it is cmake friendly (check the last link) 
+
 Credits:
 
 [grpc](http:/grpc.io)
@@ -17,5 +20,5 @@ Credits:
 
 [grpc C++ documentation](http://www.grpc.io/docs/tutorials/basic/c.html)
 
-[grpc cmak example](https://github.com/IvanSafonov/grpc-cmake-example)
+[grpc cmake example](https://github.com/IvanSafonov/grpc-cmake-example)
 
