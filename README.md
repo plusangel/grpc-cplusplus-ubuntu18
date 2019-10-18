@@ -1,6 +1,6 @@
 # gRPC C++ Docker image in Ubuntu 18.04
 
-This is the official docker image for the C++ installation of gRPC.  For an
+This is a docker image for the C++ installation of gRPC.  For an
 overview and usage examples, see the gRPC C++ documentation.
 
 # What is gRPC ?
